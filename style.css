@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-area{
+    background-color: #B80000;
+    
+}
+.container{
+    width: 1250px;
+    margin:auto;
+    
+}
+.logo-area{
+    padding: 20px;
+}
+.nav-area{
+    border-top: 1px solid white;
+    background-color: #B80000;
+    overflow: hidden;
+}
+.nav ul li {
+    list-style: none;
+    text-decoration: none;
+    float: left;
+    color: #F7FDE5;
+    padding:20px ;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    list-style: none;
+}
+
+.container2{
+    width:1000px;
+    margin: auto;
+}
+.row{margin:0 -15px}
+.col-6{width:50%;float:left;}
+.col-3{width:25%;float:left;}
+.main-news{
+    margin-top: 20px;
+    overflow: hidden;
+}
+.special{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 23px;
+    color: black;
+}
+.area p {
+    color: #646672;
+    line-height: 2rem;
+    font-size: 14px;
+    margin: 10px;
+}
+.special2 {
+    font-size: 14px;
+    color: #222222;
+    font-weight: bold;
+}
+.news-area{
+    margin-top: 15px;
+}
+.news-area a {
+    font-weight: bold;
+    font-size: 15px;
+}
+.news-area p {
+    margin: 13px 0;
+    font-size: 14px;
+    
+}
+.other-news{
+    overflow: hidden;
+}
+.footer-area{
+    background-color: #222222;
+    overflow: hidden;
+}
+.footer1 a {
+    color: white;
+    font-size: 14px;
+    padding: 14px 0;
+}
+.footer1{
+    padding: 20px 0;
+    border-bottom: 1px solid #3F3F42;
+}
+.footer{
+    padding: 20px 14px;
+    overflow: hidden;
+}
+
+.footer2{
+    padding: 20px 14px;
+    overflow: hidden;
+    border-bottom: 1px solid #3F3F42;
+}
+
+.footer a{
+    color:white;
+    font-size: 14px;
+    
+
+}
+
+.footer2 a{
+    color:white;
+    font-size: 14px;
+}
+.main-footer a{
+    color: white;
+    font-size: 14px;
+}
+.main-footer{
+    padding: 15px 0;
+}
